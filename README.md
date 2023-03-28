@@ -6,5 +6,3 @@ Baseline for the competition on Kaggle(Titanic)
  Score:77.990
 
 UPD: можете взглянуть на еще одно из моих решений в VK_CUP 2022 :) - https://github.com/IvanShcherbak/VK_CUP
-
-Скоро обязательно будет ссылка на решение задачи с помощью нейросети.
